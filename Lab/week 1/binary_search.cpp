@@ -1,3 +1,5 @@
+//Author: Abhay Rawat
+//binary_search
 #include<bits/stdc++.h>
 using namespace std;
 void binary_search(vector<int> &arr,int n,int key)
