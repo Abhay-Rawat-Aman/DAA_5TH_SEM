@@ -1,5 +1,5 @@
 //Author: Abhay Rawat
-//Lab 4: Ques 2
+//Lab 5: Ques 2
 #include<bits/stdc++.h>
 using namespace std;
 int main()
