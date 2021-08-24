@@ -1,5 +1,5 @@
 //Author: Abhay Rawat
-//lab 4: Ques 1
+//lab 5: Ques 1
 #include<iostream>
 using namespace std;
 int main()
