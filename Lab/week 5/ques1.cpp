@@ -1,5 +1,5 @@
 //Author: Abhay Rawat
-//lab 5: Ques 1
+//Week 5: Ques 1
 #include<iostream>
 using namespace std;
 int main()
