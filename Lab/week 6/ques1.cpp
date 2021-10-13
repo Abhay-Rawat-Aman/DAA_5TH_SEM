@@ -1,5 +1,5 @@
 //Author: Abhay Rawat
-//Week 5: Ques 1
+//Week 6: Ques 1
 #include<bits/stdc++.h>
 #define ll long long int
 #define vi vector<int>
