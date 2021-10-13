@@ -1,3 +1,5 @@
+//Author: Abhay Rawat
+//Week 6: Ques 3
 #include<bits/stdc++.h>
 #define ll long long int
 #define vi vector<int>
